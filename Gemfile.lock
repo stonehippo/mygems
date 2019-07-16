@@ -117,7 +117,7 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
       rb-kqueue (>= 0.2)
-    mail (2.5.4)
+    mail (2.5.5)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     maruku (0.7.0)
@@ -154,7 +154,7 @@ GEM
       yajl-ruby
     parslet (1.5.0)
       blankslate (~> 2.0)
-    polyglot (0.3.4)
+    polyglot (0.3.5)
     posix-spawn (0.3.8)
     pry (0.9.12.6)
       coderay (~> 1.0)
