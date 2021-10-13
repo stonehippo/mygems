@@ -252,7 +252,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jsmin (1.0.1)
-    json (2.2.0)
+    json (2.5.1)
     json_pure (2.3.0)
     kramdown (2.3.1)
       rexml
