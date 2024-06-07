@@ -450,7 +450,8 @@ GEM
     reline (0.5.8)
       io-console (~> 0.5)
     request-log-analyzer (1.13.4)
-    rexml (3.2.5)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rocco (0.8.2)
       mustache
       redcarpet
@@ -518,6 +519,7 @@ GEM
       unicode-display_width (~> 1.5)
       unicode_utils (~> 1.4)
     strings-ansi (0.1.0)
+    strscan (3.1.0)
     syslog-logger (1.6.8)
     systemu (2.6.5)
     templater (1.0.0)
