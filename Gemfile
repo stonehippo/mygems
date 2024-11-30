@@ -5,7 +5,7 @@ gem "ffi" # explicitly install the latest version to prevent older install
 gem "bcat"
 gem "thin"
 gem "sinatra"
-gem "sinatra-reloader"
+gem "rerun"
 gem "sinatra-advanced-routes"
 gem "capistrano"
 gem "capistrano-ext"
